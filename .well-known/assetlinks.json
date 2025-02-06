@@ -1,9 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.deeplink_cookbook",
+    "namespace": "com.adroit.flutter.deeplinkdemo.flutter_deeplink_demo",
+    "package_name": "com.adroit.flutter.deeplinkdemo.flutter_deeplink_demo",
     "sha256_cert_fingerprints":
-    ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
+    ["56:49:69:3D:89:3B:71:88:ED:21:B0:A2:8B:05:45:BC:C9:E1:69:34:79:93:41:4A:9D:D8:F3:B5:AD:2E:18:92"]
   }
 }]
