@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "com.adroit.flutter.deeplinkdemo.flutter_deeplink_demo",
-    "package_name": "com.adroit.flutter.deeplinkdemo.flutter_deeplink_demo",
-    "sha256_cert_fingerprints":
-    ["56:49:69:3D:89:3B:71:88:ED:21:B0:A2:8B:05:45:BC:C9:E1:69:34:79:93:41:4A:9D:D8:F3:B5:AD:2E:18:92"]
-  }
-}]
